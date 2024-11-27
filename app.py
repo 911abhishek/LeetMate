@@ -3,7 +3,7 @@ import requests
 import google.generativeai as genai
 
 
-genai.configure(api_key="AIzaSyC7ADecZHwIMd440d3mK-xWYK77BigVAnQ")
+genai.configure(api_key="API")
 
 
 # to fetch questions of leetcode using a url
